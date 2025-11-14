@@ -1,6 +1,6 @@
 # Resume João Vitor Hermes
 
-Here is my professional and personal resume
+Here is my professional curriculum that i've developed using HTML5,CSS3, Javascript, Git and Github.
 
 ## Plataform and Language used 
 <img
